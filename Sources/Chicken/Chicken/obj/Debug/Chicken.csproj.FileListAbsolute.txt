@@ -1,0 +1,5 @@
+/Users/liaolinyue/Projects/Chicken/Chicken/bin/Debug/Chicken.exe
+/Users/liaolinyue/Projects/Chicken/Chicken/bin/Debug/Chicken.pdb
+/Users/liaolinyue/Projects/Chicken/Chicken/obj/Debug/Chicken.csprojAssemblyReference.cache
+/Users/liaolinyue/Projects/Chicken/Chicken/obj/Debug/Chicken.exe
+/Users/liaolinyue/Projects/Chicken/Chicken/obj/Debug/Chicken.pdb
