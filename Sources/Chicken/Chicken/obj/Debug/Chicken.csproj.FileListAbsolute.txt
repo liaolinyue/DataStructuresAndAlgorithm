@@ -3,3 +3,8 @@
 /Users/liaolinyue/Projects/Chicken/Chicken/obj/Debug/Chicken.csprojAssemblyReference.cache
 /Users/liaolinyue/Projects/Chicken/Chicken/obj/Debug/Chicken.exe
 /Users/liaolinyue/Projects/Chicken/Chicken/obj/Debug/Chicken.pdb
+/Users/liaolinyue/Desktop/ZUOYE1/DataStructuresAndAlgorithm/Sources/Chicken/Chicken/obj/Debug/Chicken.csprojAssemblyReference.cache
+/Users/liaolinyue/Desktop/ZUOYE1/DataStructuresAndAlgorithm/Sources/Chicken/Chicken/obj/Debug/Chicken.exe
+/Users/liaolinyue/Desktop/ZUOYE1/DataStructuresAndAlgorithm/Sources/Chicken/Chicken/obj/Debug/Chicken.pdb
+/Users/liaolinyue/Desktop/ZUOYE1/DataStructuresAndAlgorithm/Sources/Chicken/Chicken/bin/Debug/Chicken.exe
+/Users/liaolinyue/Desktop/ZUOYE1/DataStructuresAndAlgorithm/Sources/Chicken/Chicken/bin/Debug/Chicken.pdb
